@@ -3,36 +3,29 @@
 
 
     <url>
-        <loc>http://constlike.coding.me/blog/tags/Docker/</loc>
+        <loc>http://constlike.coding.me/blog/tags/Hexo/</loc>
         <lastmod>2019-12-08T07:08:07.506Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>http://constlike.coding.me/blog/tags/Docker/</loc>
+        <lastmod>2019-12-08T11:56:26.402Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://constlike.coding.me/blog/tags/Linux/</loc>
-        <lastmod>2019-12-08T07:08:07.506Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://constlike.coding.me/blog/tags/CentOS/</loc>
-        <lastmod>2019-12-08T07:08:07.506Z</lastmod>
+        <lastmod>2019-12-08T11:56:26.402Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
         <loc>http://constlike.coding.me/blog/tags/%E6%95%99%E7%A8%8B/</loc>
-        <lastmod>2019-12-08T07:08:07.506Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>http://constlike.coding.me/blog/tags/Hexo/</loc>
-        <lastmod>2019-12-08T07:08:07.506Z</lastmod>
+        <lastmod>2019-12-08T11:56:26.402Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>

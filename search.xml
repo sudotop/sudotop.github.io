@@ -26,8 +26,6 @@
             
             <tag> Linux </tag>
             
-            <tag> CentOS </tag>
-            
             <tag> 教程 </tag>
             
         </tags>
@@ -72,8 +70,6 @@
       
       
       <categories>
-          
-          <category> Dev </category>
           
           <category> Hexo </category>
           
