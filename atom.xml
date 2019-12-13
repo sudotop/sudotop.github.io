@@ -5,9 +5,9 @@
   
   <link href="/blog/atom.xml" rel="self"/>
   
-  <link href="https://sudorm.net/blog/"/>
+  <link href="https://www.sudorm.net/blog/"/>
   <updated>2019-12-08T12:03:27.750Z</updated>
-  <id>https://sudorm.net/blog/</id>
+  <id>https://www.sudorm.net/blog/</id>
   
   <author>
     <name>AFK的阿昆达</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>CentOS7下Docker的安装</title>
-    <link href="https://sudorm.net/blog/CentOS7%E4%B8%8BDocker%E7%9A%84%E5%AE%89%E8%A3%85/"/>
-    <id>https://sudorm.net/blog/CentOS7下Docker的安装/</id>
+    <link href="https://www.sudorm.net/blog/CentOS7%E4%B8%8BDocker%E7%9A%84%E5%AE%89%E8%A3%85/"/>
+    <id>https://www.sudorm.net/blog/CentOS7下Docker的安装/</id>
     <published>2019-12-05T09:05:40.000Z</published>
     <updated>2019-12-08T12:03:27.750Z</updated>
     
@@ -37,23 +37,23 @@
     
     </summary>
     
-      <category term="Linux" scheme="https://sudorm.net/blog/blog/categories/Linux/"/>
+      <category term="Linux" scheme="https://www.sudorm.net/blog/blog/categories/Linux/"/>
     
-      <category term="Docker" scheme="https://sudorm.net/blog/blog/categories/Linux/Docker/"/>
+      <category term="Docker" scheme="https://www.sudorm.net/blog/blog/categories/Linux/Docker/"/>
     
     
-      <category term="Docker" scheme="https://sudorm.net/blog/blog/tags/Docker/"/>
+      <category term="Docker" scheme="https://www.sudorm.net/blog/blog/tags/Docker/"/>
     
-      <category term="Linux" scheme="https://sudorm.net/blog/blog/tags/Linux/"/>
+      <category term="Linux" scheme="https://www.sudorm.net/blog/blog/tags/Linux/"/>
     
-      <category term="教程" scheme="https://sudorm.net/blog/blog/tags/%E6%95%99%E7%A8%8B/"/>
+      <category term="教程" scheme="https://www.sudorm.net/blog/blog/tags/%E6%95%99%E7%A8%8B/"/>
     
   </entry>
   
   <entry>
     <title>置顶：Cloud Studio上部署Hexo方法</title>
-    <link href="https://sudorm.net/blog/Cloud-Studio%E9%83%A8%E7%BD%B2Hexo%E6%96%B9%E6%B3%95/"/>
-    <id>https://sudorm.net/blog/Cloud-Studio部署Hexo方法/</id>
+    <link href="https://www.sudorm.net/blog/Cloud-Studio%E9%83%A8%E7%BD%B2Hexo%E6%96%B9%E6%B3%95/"/>
+    <id>https://www.sudorm.net/blog/Cloud-Studio部署Hexo方法/</id>
     <published>2019-02-14T16:00:00.000Z</published>
     <updated>2019-12-13T15:40:32.705Z</updated>
     
@@ -65,12 +65,12 @@
     
     </summary>
     
-      <category term="其他" scheme="https://sudorm.net/blog/blog/categories/%E5%85%B6%E4%BB%96/"/>
+      <category term="其他" scheme="https://www.sudorm.net/blog/blog/categories/%E5%85%B6%E4%BB%96/"/>
     
-      <category term="Hexo" scheme="https://sudorm.net/blog/blog/categories/%E5%85%B6%E4%BB%96/Hexo/"/>
+      <category term="Hexo" scheme="https://www.sudorm.net/blog/blog/categories/%E5%85%B6%E4%BB%96/Hexo/"/>
     
     
-      <category term="Hexo" scheme="https://sudorm.net/blog/blog/tags/Hexo/"/>
+      <category term="Hexo" scheme="https://www.sudorm.net/blog/blog/tags/Hexo/"/>
     
   </entry>
   

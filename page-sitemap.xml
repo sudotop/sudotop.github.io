@@ -2,48 +2,48 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://sudorm.net/blog</loc>
+        <loc>https://www.sudorm.net/blog</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
     
     <url>
-        <loc>https://sudorm.net/blog/friends/</loc>
-        <lastmod>2019-12-13T16:20:47.775Z</lastmod>
+        <loc>https://www.sudorm.net/blog/friends/</loc>
+        <lastmod>2019-12-13T16:23:50.543Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>https://sudorm.net/blog/about/</loc>
+        <loc>https://www.sudorm.net/blog/about/</loc>
         <lastmod>2019-12-13T16:00:52.929Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>https://sudorm.net/blog/404.html</loc>
+        <loc>https://www.sudorm.net/blog/404.html</loc>
         <lastmod>2019-12-13T16:00:37.417Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>https://sudorm.net/blog/projects/</loc>
+        <loc>https://www.sudorm.net/blog/projects/</loc>
         <lastmod>2019-12-08T07:08:07.514Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>https://sudorm.net/blog/blog/categories/</loc>
+        <loc>https://www.sudorm.net/blog/blog/categories/</loc>
         <lastmod>2019-12-08T07:08:07.514Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>https://sudorm.net/blog/blog/tags/</loc>
+        <loc>https://www.sudorm.net/blog/blog/tags/</loc>
         <lastmod>2019-12-08T07:08:07.514Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
