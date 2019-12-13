@@ -8,6 +8,13 @@
     </url>
     
     <url>
+        <loc>http://constlike.coding.me/about/</loc>
+        <lastmod>2019-12-13T15:37:40.270Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <url>
         <loc>http://constlike.coding.me/friends/</loc>
         <lastmod>2019-12-08T07:08:07.514Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -22,13 +29,6 @@
     </url>
     
     <url>
-        <loc>http://constlike.coding.me/blog/categories/</loc>
-        <lastmod>2019-12-08T07:08:07.514Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
         <loc>http://constlike.coding.me/blog/tags/</loc>
         <lastmod>2019-12-08T07:08:07.514Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -36,14 +36,14 @@
     </url>
     
     <url>
-        <loc>http://constlike.coding.me/404.html</loc>
-        <lastmod>2019-12-08T07:08:07.506Z</lastmod>
+        <loc>http://constlike.coding.me/blog/categories/</loc>
+        <lastmod>2019-12-08T07:08:07.514Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
     </url>
     
     <url>
-        <loc>http://constlike.coding.me/about/</loc>
+        <loc>http://constlike.coding.me/404.html</loc>
         <lastmod>2019-12-08T07:08:07.506Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
