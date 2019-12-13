@@ -3,22 +3,22 @@
 
 
     <sitemap>
-        <loc>http://constlike.coding.me/post-sitemap.xml</loc>
+        <loc>https://sudorm.net/blog/post-sitemap.xml</loc>
         <lastmod>2019-12-13T15:40:32.705Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://constlike.coding.me/page-sitemap.xml</loc>
-        <lastmod>2019-12-13T16:00:52.929Z</lastmod>
+        <loc>https://sudorm.net/blog/page-sitemap.xml</loc>
+        <lastmod>2019-12-13T16:20:47.775Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://constlike.coding.me/category-sitemap.xml</loc>
+        <loc>https://sudorm.net/blog/category-sitemap.xml</loc>
         <lastmod>2019-12-08T12:03:27.750Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>http://constlike.coding.me/tag-sitemap.xml</loc>
+        <loc>https://sudorm.net/blog/tag-sitemap.xml</loc>
         <lastmod>2019-12-08T12:03:27.750Z</lastmod>
     </sitemap>
 
