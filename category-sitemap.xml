@@ -2,34 +2,34 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>https://www.sudorm.net/blog</loc>
+        <loc>https://www.sudorm.net</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
 
     <url>
-        <loc>https://www.sudorm.net/blog/blog/categories/Linux/</loc>
+        <loc>https://www.sudorm.net/blog/categories/Linux/</loc>
         <lastmod>2019-12-08T12:03:27.750Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://www.sudorm.net/blog/blog/categories/Linux/Docker/</loc>
+        <loc>https://www.sudorm.net/blog/categories/Linux/Docker/</loc>
         <lastmod>2019-12-08T12:03:27.750Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://www.sudorm.net/blog/blog/categories/%E5%85%B6%E4%BB%96/</loc>
+        <loc>https://www.sudorm.net/blog/categories/%E5%85%B6%E4%BB%96/</loc>
         <lastmod>2019-12-13T15:40:32.705Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>https://www.sudorm.net/blog/blog/categories/%E5%85%B6%E4%BB%96/Hexo/</loc>
+        <loc>https://www.sudorm.net/blog/categories/%E5%85%B6%E4%BB%96/Hexo/</loc>
         <lastmod>2019-12-13T15:40:32.705Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
