@@ -8,20 +8,6 @@
     </url>
 
     <url>
-        <loc>https://www.sudorm.net/blog/categories/Linux/</loc>
-        <lastmod>2019-12-31T03:35:58.219Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
-        <loc>https://www.sudorm.net/blog/categories/Linux/Docker/</loc>
-        <lastmod>2019-12-31T03:35:58.219Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.2</priority>
-    </url>
-
-    <url>
         <loc>https://www.sudorm.net/blog/categories/%E5%85%B6%E4%BB%96/</loc>
         <lastmod>2019-12-31T03:47:16.807Z</lastmod>
         <changefreq>weekly</changefreq>
@@ -31,6 +17,20 @@
     <url>
         <loc>https://www.sudorm.net/blog/categories/%E5%85%B6%E4%BB%96/Hexo/</loc>
         <lastmod>2019-12-31T03:47:16.807Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.sudorm.net/blog/categories/Linux/</loc>
+        <lastmod>2019-12-31T05:55:57.827Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
+    </url>
+
+    <url>
+        <loc>https://www.sudorm.net/blog/categories/Linux/Docker/</loc>
+        <lastmod>2019-12-31T05:55:57.827Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.2</priority>
     </url>
