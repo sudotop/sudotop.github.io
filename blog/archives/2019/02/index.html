@@ -299,8 +299,8 @@
       
         
   <h2 class="title">
-    <a href="/Cloud-Studio部署Hexo方法/">
-      置顶：Cloud Studio上部署Hexo方法
+    <a href="/Cloud-Studio部署hexo命令/">
+      置顶：Cloud Studio部署Hexo命令
     </a>
   </h2>
 
@@ -371,10 +371,10 @@
 
   <section class="article typo">
     <div class="article-entry" itemprop="articleBody">
-      <h3 id="部署到Cloud-Studio"><a href="#部署到Cloud-Studio" class="headerlink" title="部署到Cloud Studio"></a>部署到Cloud Studio</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">$ <span class="built_in">cd</span> /home/coding/workspace/blog &amp;&amp; sudo hexo n <span class="string">"My New Post"</span></span><br><span class="line">$ sudo hexo clean &amp;&amp; sudo hexo g &amp;&amp; sudo hexo d</span><br></pre></td></tr></table></figure>
+      <h3 id="部署到Cloud-Studio"><a href="#部署到Cloud-Studio" class="headerlink" title="部署到Cloud Studio"></a>部署到Cloud Studio</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment"># 新建、编写并发布</span></span><br><span class="line">$ <span class="built_in">cd</span> /home/coding/workspace/blog &amp;&amp; sudo hexo n <span class="string">"My New Post"</span></span><br><span class="line">$ sudo hexo clean &amp;&amp; sudo hexo g &amp;&amp; sudo hexo d</span><br><span class="line"><span class="comment"># git备份</span></span><br><span class="line">$ <span class="built_in">cd</span> /home/coding/workspace &amp;&amp; sudo git add . </span><br><span class="line">$ sudo git commit -m <span class="string">"new"</span> &amp;&amp; sudo git push origin backup</span><br></pre></td></tr></table></figure>
       
         <div class="readmore">
-          <a href="/Cloud-Studio部署Hexo方法/" class="flat-box">
+          <a href="/Cloud-Studio部署hexo命令/" class="flat-box">
             <i class="fas fa-book-open fa-fw" aria-hidden="true"></i>
             阅读全文
           </a>
@@ -725,7 +725,7 @@
 </header>
 
     <div class='content pure'>
-      <a href="/blog/tags/Docker/" style="font-size: 24px; color: #555">Docker</a> <a href="/blog/tags/Hexo/" style="font-size: 14px; color: #999">Hexo</a> <a href="/blog/tags/Linux/" style="font-size: 24px; color: #555">Linux</a> <a href="/blog/tags/教程/" style="font-size: 14px; color: #999">教程</a>
+      <a href="/blog/tags/Docker/" style="font-size: 24px; color: #555">Docker</a> <a href="/blog/tags/Hexo/" style="font-size: 14px; color: #999">Hexo</a> <a href="/blog/tags/Linux/" style="font-size: 24px; color: #555">Linux</a>
     </div>
   </section>
 
